@@ -260,6 +260,9 @@ img {
   padding-left: 50px;
   padding-right: 50px;
 }
+.about-items .title {
+  margin-bottom: 10px;
+}
 .team-soc-list,
 .networks-list {
   display: flex;
