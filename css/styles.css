@@ -242,12 +242,6 @@ img {
 .team-list .items + .items {
   margin-left: 30px;
 }
-/* .team .title {
-  margin-bottom: 10px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.19;
-} */
 .team .text {
   font-weight: 400;
   font-size: 16px;
@@ -263,8 +257,8 @@ img {
   padding-right: 70px;
 }
 .about-items:nth-child(2n) {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .team-soc-list,
 .networks-list {
