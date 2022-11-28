@@ -55,6 +55,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* logo */
 .logo {
   font-family: Raleway, sans-serif;
@@ -135,7 +139,10 @@ img {
 .hero {
   background-color: var(--accent-bcg-color);
   text-align: center;
+  height: 600px;
   max-width: 1600px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   margin-left: auto;
   margin-right: auto;
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
@@ -170,10 +177,7 @@ img {
   background-color: var(--active-bcg-color);
 }
 /* section */
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
+
 .clients-title,
 .title {
   color: var(--title-text-color);
